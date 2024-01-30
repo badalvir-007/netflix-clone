@@ -1,3 +1,22 @@
+
+Description:
+This repository hosts a Netflix clone built using React.js and Firebase. The project replicates the Netflix user interface, showcasing a dynamic landing page with movie thumbnails, trailers, and an authentication system powered by Firebase for user registration and login.
+
+Features:
+
+Dynamic movie thumbnails and trailers
+Firebase authentication for user registration and login
+Responsive design for various screen sizes
+Real-time updates from Firebase Firestore
+
+Tech Stack:
+
+React.js
+Firebase (Authentication, Firestore)
+JavaScript/ES6
+HTML/CSS
+TMDB API (for movie data)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
